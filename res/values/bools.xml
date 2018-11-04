@@ -32,13 +32,13 @@
     <bool name="has_fingerprint_prefs">false</bool>
 
     <!-- Whether to display buttons category -->
-    <bool name="has_buttons">false</bool>
+    <bool name="has_buttons">true</bool>
 
     <!-- Whether to display navigation category -->
-    <bool name="has_navigation">false</bool>
+    <bool name="has_navigation">true</bool>
 
     <!-- Whether to display battery category -->
-    <bool name="has_battery_options">false</bool>
+    <bool name="has_battery_options">true</bool>
 
     <!-- Whether to display carrier label category -->
     <bool name="has_carrier_label">false</bool>
