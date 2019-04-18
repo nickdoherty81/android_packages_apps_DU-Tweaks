@@ -359,6 +359,7 @@
     <string name="lockscreen_clock_selection_sammy_bold">Sammy (bold)</string>
     <string name="lockscreen_clock_selection_sammy_accent">Sammy with accent</string>
     <string name="lockscreen_clock_selection_sammy_accent_bold">Sammy with accent (bold)</string>
+    <string name="lockscreen_clock_selection_text">Text</string>
 
     <!-- Active edge -->
     <string name="active_edge_short_actions_title">Short squeeze action</string>
